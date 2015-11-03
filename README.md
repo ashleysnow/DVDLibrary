@@ -1,6 +1,6 @@
 # DVDLibrary
 
-Created a DVD Library that can search, create, update, and delete DVD's from a database. The application was built with the following technologies: Spring MVC, REST Web Services, Spring Core, Maven, NetBeans, Tomcat, MySQL, Bootstrap, jQuery.
+Created a web application that can create, update, delete, and search DVD's from a database. The application was built with the following technologies: Spring MVC, REST Web Services, Spring Core, Maven, NetBeans, Tomcat, MySQL, Bootstrap, jQuery.
 
 User-name: test
 
